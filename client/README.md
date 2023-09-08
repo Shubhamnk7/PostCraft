@@ -1,0 +1,1 @@
+There is a env file included with API_ENDPOINT name that contains endpoint of the backendd
